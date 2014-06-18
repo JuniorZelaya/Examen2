@@ -5,7 +5,7 @@ public class Ejercicios
 	//2 puntos
 	static boolean esMultiploDeTres(int num)
 	{
-		if ( (num % 3)== 0) // se evalua la condicion
+		if ( (num % 3)== 0) // se evalua la condicion,
 		{
 			return true; // devuelve tru si es verdadero
         
